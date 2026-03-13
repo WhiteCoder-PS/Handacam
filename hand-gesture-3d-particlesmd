@@ -1,0 +1,146 @@
+# Hand-Controlled 3D Particle Morphing ✋✨
+
+An interactive **AI-powered web experience** where users can control a **3D particle system using hand gestures through their webcam**.
+
+The project uses **real-time hand tracking** to control particle expansion, movement, and shape transformations in a dynamic 3D environment.
+
+Particles morph into different structures like **Sphere, Heart, Saturn, Flower, and Helix**, while pinch gestures control particle expansion and color changes.
+
+---
+
+## 🌐 Live Demo
+
+Try the project here:
+
+https://funstep.netlify.app/
+
+⚠️ The website requires **camera permission** to detect hand gestures.
+
+---
+
+## 🎮 How It Works
+
+1. Open the website.
+2. Allow **webcam access**.
+3. Show your hand to the camera.
+4. Move your hand to control particle movement.
+5. Use **pinch gestures (thumb + index finger)** to:
+
+   * Compress particles
+   * Expand particles
+   * Change colors dynamically
+6. Use the buttons to morph particles into different shapes.
+
+---
+
+## ✨ Features
+
+* Real-time **hand gesture recognition**
+* Interactive **3D particle system**
+* Dynamic **particle morphing**
+* Gesture-based **zoom / expansion control**
+* Multiple particle shapes:
+
+  * Sphere
+  * Heart
+  * Saturn
+  * Flower
+  * Helix
+* Smooth physics-based particle animation
+* Fully browser-based (no installation needed)
+
+---
+
+## 🧠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+Libraries:
+
+* Three.js (3D rendering engine)
+* MediaPipe Hands (real-time hand tracking)
+* WebGL (GPU-based graphics)
+
+---
+
+## ⚙️ Core Concepts Used
+
+This project demonstrates several advanced concepts:
+
+* Computer Vision
+* Hand Landmark Detection
+* 3D Graphics Rendering
+* Particle Systems
+* Gesture Interaction
+* Real-time Animation
+* WebGL Graphics
+
+---
+
+## 📂 Project Structure
+
+```
+funstep/
+│
+├── index.html
+├── README.md
+```
+
+The entire application logic, rendering engine, and gesture detection are implemented inside **index.html**.
+
+---
+
+## 🧪 Gesture Controls
+
+| Gesture       | Action                |
+| ------------- | --------------------- |
+| Move hand     | Move particle system  |
+| Pinch fingers | Compress particles    |
+| Open fingers  | Expand particles      |
+| UI buttons    | Change particle shape |
+
+---
+
+## 🚀 Run Locally
+
+Clone the repository:
+
+```
+git clone https://github.com/your-username/funstep.git
+```
+
+Open the folder and run:
+
+```
+index.html
+```
+
+Allow camera access and start interacting with the particles.
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was built to explore **AI-powered interaction in web applications** by combining computer vision with 3D graphics.
+
+It demonstrates how **hand gestures can replace traditional input methods like mouse and keyboard**.
+
+---
+
+## 📸 Future Improvements
+
+Possible upgrades:
+
+* Multi-hand tracking
+* Gesture-based shape switching
+* VR / WebXR support
+* Particle physics improvements
+* Custom gesture training
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub**.
