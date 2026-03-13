@@ -12,7 +12,7 @@ Particles morph into different structures like **Sphere, Heart, Saturn, Flower, 
 
 Try the project here:
 
-https://funstep.netlify.app/
+[Click here to try the Live Demo](https://funstep.netlify.app/)
 
 ⚠️ The website requires **camera permission** to detect hand gestures.
 
